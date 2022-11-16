@@ -1,0 +1,11 @@
+.foods-container {
+
+    text-align: center;
+}
+
+.foods {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 25px;
+    grid-gap: 8px;
+}

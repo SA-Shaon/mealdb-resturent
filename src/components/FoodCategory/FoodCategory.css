@@ -1,0 +1,11 @@
+.category {
+    box-shadow: 4px 5px 10px gray;
+    border-radius: 8px;    
+}
+
+.category img {
+    width: 150px;
+}
+.categoryName{
+    margin:  10px;
+}

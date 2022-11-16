@@ -1,0 +1,12 @@
+.food {
+    box-shadow: 4px 5px 10px gray;
+    border-radius: 8px;
+    height: 450px;
+    overflow: hidden;
+    padding: 7px;
+}
+
+.food img {
+    width: 250px;
+    border-radius: 12px;
+}

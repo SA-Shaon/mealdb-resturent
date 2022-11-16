@@ -1,0 +1,9 @@
+.categories-container h2 {
+    text-align: center;
+}
+
+.categories {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 9px;
+}
